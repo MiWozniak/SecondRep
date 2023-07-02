@@ -5,5 +5,18 @@
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_uid": "28291482-c909e961-e96f-4fb5-b3df-b7c238df68fc"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "CreateNewOrganization",
+			"id": "fd2d4923-133e-48dc-ac78-70ca17d74116",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
 }
